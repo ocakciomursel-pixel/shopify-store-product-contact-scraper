@@ -1,0 +1,28 @@
+{
+  "name": "shopify-store-product-contact-scraper",
+  "version": "2.0.0",
+  "description": "High-speed Shopify competitor spy & B2B merchant contact extractor: scrape product catalogs, variants, prices, stock levels, ad pixels, and owner emails.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "shopify-store-product-contact-scraper": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "shopify",
+    "shopify-scraper",
+    "ecommerce-scraper",
+    "price-monitoring",
+    "b2b-leads",
+    "competitor-analysis",
+    "web-scraping",
+    "n8n",
+    "apify",
+    "nodejs",
+    "lead-generation",
+    "dropshipping-tools"
+  ],
+  "license": "MIT"
+}
